@@ -1,6 +1,7 @@
 # Highlight.js
 
 [![Build Status](https://travis-ci.org/isagalaev/highlight.js.svg?branch=master)](https://travis-ci.org/isagalaev/highlight.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fportoren%2Fhighlight.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fportoren%2Fhighlight.js?ref=badge_shield)
 
 Highlight.js is a syntax highlighter written in JavaScript. It works in
 the browser as well as on the server. It works with pretty much any
@@ -130,6 +131,9 @@ r.js -o name=hljs paths.hljs=/path/to/highlight out=highlight.js
 
 Highlight.js is released under the BSD License. See [LICENSE][7] file
 for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fportoren%2Fhighlight.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fportoren%2Fhighlight.js?ref=badge_large)
 
 ## Links
 
